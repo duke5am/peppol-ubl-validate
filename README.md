@@ -93,7 +93,7 @@ The full toolkit adds:
   multi-rate, and a negative correction line;
 * 51 tests and a documented verification record.
 
-→ **Peppol / UBL E-Invoicing Toolkit**: <!-- GUMROAD-LINK -->
+→ More developer tooling like this: **[duke5am.gumroad.com](https://duke5am.gumroad.com)** <!-- GUMROAD-LINK -->
 
 ## Licence
 
