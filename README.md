@@ -93,6 +93,17 @@ The full toolkit adds:
   multi-rate, and a negative correction line;
 * 51 tests and a documented verification record.
 
+<!-- RELATED:START -->
+
+## Related tools
+
+
+All 28 tools in this set, grouped by what they check: **[dev-tools-index](https://duke5am.github.io/dev-tools-index/)**
+
+If you arrived here searching for one of these, this is the tool: **validate ubl invoice** · **peppol bis billing 3.0 validation** · **belgian e-invoicing 2026** · **structured communication ogm check**
+
+<!-- RELATED:END -->
+
 → More developer tooling like this: **[duke5am.gumroad.com](https://duke5am.gumroad.com)** <!-- GUMROAD-LINK -->
 
 ## Licence
